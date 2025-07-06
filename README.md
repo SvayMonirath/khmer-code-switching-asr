@@ -9,11 +9,13 @@ An Automatic Speech Recognition (ASR) system for Khmer-English code-switching au
    cd khmer-code-switching-asr
    ```
 2. Create and activate a virtual environment:
+   
   On Linux/macOS:
    ```bash
    python3 -m venv env
    source env/bin/activate
    ```
+   
   On Windows (PowerShell):
    ```bash
    python -m venv env
