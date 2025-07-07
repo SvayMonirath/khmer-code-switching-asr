@@ -4,6 +4,7 @@ scripts = [
     "python script/download_audio.py",
     "python script/chunk_audio.py",
     "python script/transcribe_and_filter.py",
+    "python script/filter_chunk.py",
     "python script/clean_transcripts.py",
     "python script/tag_audio.py"
 ]
